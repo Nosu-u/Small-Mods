@@ -1,0 +1,15 @@
+{
+	"geode": "v0.1.0",
+	"version": "v1.0.0",
+	"id": "com.nosu.level_edit",
+	"name": "level_edit",
+	"developer": "Nosu",
+	"description": "yea",
+	"binary": "level_edit",
+	"dependencies": [
+		{
+			"id": "com.geode.api",
+			"required": false
+		}
+	]
+}
