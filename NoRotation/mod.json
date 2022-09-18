@@ -1,0 +1,15 @@
+{
+	"geode": "v0.1.0",
+	"version": "v1.0.0",
+	"id": "com.nosu.norotation",
+	"name": "NoRotation",
+	"developer": "Nosu",
+	"description": "uuuh",
+	"binary": "NoRotation",
+	"dependencies": [
+		{
+			"id": "com.geode.api",
+			"required": false
+		}
+	]
+}
