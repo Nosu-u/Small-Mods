@@ -9,11 +9,3 @@ class $(PlayerObject) {
 	return PlayerObject::setRotation(love);
 	}
 };
-
-
-
-
-
-
-
-
