@@ -1,0 +1,15 @@
+{
+	"geode": "v0.1.0",
+	"version": "v1.0.0",
+	"id": "com.nosu.hideattempts",
+	"name": "HideAttempts",
+	"developer": "nosu",
+	"description": "yea",
+	"binary": "HideAttempts",
+	"dependencies": [
+		{
+			"id": "com.geode.api",
+			"required": false
+		}
+	]
+}
