@@ -1,0 +1,15 @@
+{
+	"geode": "v0.1.0",
+	"version": "v1.0.0",
+	"id": "com.nosu.notransition",
+	"name": "NoTransition",
+	"developer": "nosu",
+	"description": "trans :(",
+	"binary": "NoTransition",
+	"dependencies": [
+		{
+			"id": "com.geode.api",
+			"required": false
+		}
+	]
+}
