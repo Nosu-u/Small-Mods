@@ -1,15 +1,8 @@
 {
-	"geode": "v0.1.0",
+	"geode": "0.6.1",
 	"version": "v1.0.0",
-	"id": "com.nosu.verifyhack",
+	"id": "nosu.verifyhack",
 	"name": "VerifyHack",
 	"developer": "Nosu",
-	"description": "nvm",
-	"binary": "VerifyHack",
-	"dependencies": [
-		{
-			"id": "com.geode.api",
-			"required": true
-		}
-	]
+	"description": "You dont need to verify your created levels."
 }
