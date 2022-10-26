@@ -1,15 +1,8 @@
 {
-	"geode": "v0.1.0",
+	"geode": "0.6.1",
 	"version": "v1.0.0",
-	"id": "com.nosu.level_edit",
-	"name": "level_edit",
+	"id": "nosu.noparticles",
+	"name": "NoParticles",
 	"developer": "Nosu",
-	"description": "yea",
-	"binary": "level_edit",
-	"dependencies": [
-		{
-			"id": "com.geode.api",
-			"required": false
-		}
-	]
+	"description": "Deletes all the particles (wow)"
 }
