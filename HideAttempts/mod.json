@@ -1,15 +1,8 @@
 {
-	"geode": "v0.1.0",
+	"geode": "0.6.1",
 	"version": "v1.0.0",
-	"id": "com.nosu.hideattempts",
-	"name": "HideAttempts",
-	"developer": "nosu",
-	"description": "yea",
-	"binary": "HideAttempts",
-	"dependencies": [
-		{
-			"id": "com.geode.api",
-			"required": false
-		}
-	]
+	"id": "nosu.hideatts",
+	"name": "HideAtts",
+	"developer": "Nosu",
+	"description": "Hides the attempt label, so it doesnt cover the level."
 }
