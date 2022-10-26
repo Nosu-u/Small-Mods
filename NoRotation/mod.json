@@ -1,15 +1,8 @@
 {
-	"geode": "v0.1.0",
+	"geode": "0.6.1",
 	"version": "v1.0.0",
-	"id": "com.nosu.norotation",
-	"name": "NoRotation",
+	"id": "nosu.norotate",
+	"name": "NoRotate",
 	"developer": "Nosu",
-	"description": "uuuh",
-	"binary": "NoRotation",
-	"dependencies": [
-		{
-			"id": "com.geode.api",
-			"required": false
-		}
-	]
+	"description": "The player (any mode) doesnt rotate."
 }
