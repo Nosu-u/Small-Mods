@@ -1,0 +1,8 @@
+{
+	"geode": "0.6.1",
+	"version": "v1.0.0",
+	"id": "nosu.notrail",
+	"name": "NoTrail",
+	"developer": "Nosu",
+	"description": "disables the regular trail in every gamemode"
+}
