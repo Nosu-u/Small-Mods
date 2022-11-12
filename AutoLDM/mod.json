@@ -1,0 +1,8 @@
+{
+	"geode": "0.6.1",
+	"version": "v1.0.0",
+	"id": "nosu.autoldm",
+	"name": "AutoLDM",
+	"developer": "Nosu",
+	"description": "auto enables the low detail mode in every level"
+}
